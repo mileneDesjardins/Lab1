@@ -14,7 +14,7 @@ public class BonjourNom {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.printf("Bonjour prenom et nom : %s %s", args[0], args[1]);
+        System.out.printf("Bonjour %s %s", args[0], args[1]);
     }
     
 }
